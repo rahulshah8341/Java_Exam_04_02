@@ -119,9 +119,6 @@ then take average of all 4 subject if it is more than 60 then student has passed
 
 		        
 		        
-		        
-		        
-		     
 		package co.evenodd;
 
 		import java.util.Scanner;
@@ -141,30 +138,5 @@ then take average of all 4 subject if it is more than 60 then student has passed
 		            System.out.println(num + " is odd");
 		    }
 		}
-
-
-
-
-
-
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-}
+			}
 }
